@@ -2,7 +2,7 @@
     background-color: var(--white);
     display: flex;
     flex-direction: column;
-    gap: 48px;
+    gap: 24px;
 }
 
 .answer-container {
