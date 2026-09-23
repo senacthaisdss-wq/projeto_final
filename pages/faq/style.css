@@ -171,4 +171,9 @@ form > p {
         align-items: flex-start;
         gap: 12px;
     }
+
+    .input-container {
+        display: flex;
+        flex-direction: column;
+    }
 }
