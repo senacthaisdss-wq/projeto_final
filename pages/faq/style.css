@@ -160,3 +160,14 @@ form > p {
     display: none;
     color: green;
 }
+
+@media (max-width: 900px) {
+    .ask-container > img {
+        display: none;
+    }
+
+    .inputs-container {
+        flex-direction: column;
+        gap: 12px;
+    }
+}
